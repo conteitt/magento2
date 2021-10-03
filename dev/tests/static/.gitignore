@@ -1,0 +1,7 @@
+/*.xml
+/framework/tests/unit/*.xml
+/framework/tests/unit/var/allure-results/
+/report/
+/tmp/
+allure-results/
+.phpunit.result.cache
